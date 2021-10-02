@@ -1,6 +1,6 @@
 {
   "name": "sample-nextjs-typescript-jest",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Next.js starter with TypeScript, Jest, Testing-Library",
   "keywords": [
