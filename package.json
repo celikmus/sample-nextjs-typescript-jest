@@ -16,6 +16,7 @@
     "type": "git",
     "url": "https://github.com/celikmus/sample-nextjs-typescript-jest.git"
   },
+  "homepage": "https://github.com/celikmus/sample-nextjs-typescript-jest#readme",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
